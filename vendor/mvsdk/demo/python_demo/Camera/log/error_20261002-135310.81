@@ -1,0 +1,4 @@
+Log file created at: 2026/10/02 13:53:10
+Running on machine: TianmoucLaptop1
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E1002 13:53:10.696194    81 MVCAMAPI.cpp:382] CameraInit Failed, err:-14,Version:2.1.0.49,FriendlyName:HT-XG170GC-T,SN:072070420165

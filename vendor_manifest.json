@@ -1,0 +1,1140 @@
+{
+  "vendor_version": "2.1.0.49",
+  "platform": "Linux x86_64 runtime; bundled vendor configuration utilities retained",
+  "vendor_library_modified": false,
+  "files": [
+    {
+      "path": "vendor/mvsdk/88-mvusb.rules",
+      "bytes": 360,
+      "sha256": "204e947c06fa85d818e2e7aaca95a8c06c47b0e5a312ad65478587da6e7df3c2"
+    },
+    {
+      "path": "vendor/mvsdk/99-mvusb.rules",
+      "bytes": 117,
+      "sha256": "0b1d2285e56f1d43785d5cebb5ea8d239372689964b1ac2341d70349b6bed234"
+    },
+    {
+      "path": "vendor/mvsdk/demo/GTK_Demo/GTK_DEMO.glade",
+      "bytes": 140814,
+      "sha256": "46268f663dbe1ff72696b3874f9393e15f434ddceceac5d81c45e2d3c8c19c3f"
+    },
+    {
+      "path": "vendor/mvsdk/demo/GTK_Demo/GTK_Demo.cbp",
+      "bytes": 2078,
+      "sha256": "98e78a876b5961a2941cf1a187a93ec9460305aedd62ddf08b6560672fc94081"
+    },
+    {
+      "path": "vendor/mvsdk/demo/GTK_Demo/GTK_demo.cpp",
+      "bytes": 6272,
+      "sha256": "cecc20110ea230ed7b41caef17a63b89a5d09d7098994926429e4f41c79a24a8"
+    },
+    {
+      "path": "vendor/mvsdk/demo/GTK_Demo/Makefile.am",
+      "bytes": 338,
+      "sha256": "08125da99a5a228e639802638e776d411bf0e237369248040aa8a49709ebaced"
+    },
+    {
+      "path": "vendor/mvsdk/demo/GTK_Demo/NewPanel.cpp",
+      "bytes": 443,
+      "sha256": "71cc0c11f40ce20c8f44539aeae2f02a2d13d429ec5a9197bbfe2cf8bcff7309"
+    },
+    {
+      "path": "vendor/mvsdk/demo/GTK_Demo/NewPanel.h",
+      "bytes": 374,
+      "sha256": "447860a94bed37fb28de15e2b7b66c5df2c4f70b1641f1579be6f95aad2db785"
+    },
+    {
+      "path": "vendor/mvsdk/demo/GTK_Demo/aclocal.m4",
+      "bytes": 39833,
+      "sha256": "a50a0731906ea826f093eee72f6a00dbf9fe6727c5bdd3b58fcdb6182cc94561"
+    },
+    {
+      "path": "vendor/mvsdk/demo/GTK_Demo/app.bmp",
+      "bytes": 6966,
+      "sha256": "efc7f97db779a0479187e94ff8f9fe7f1ec2585882977f39e541da4e55833974"
+    },
+    {
+      "path": "vendor/mvsdk/demo/GTK_Demo/config.h.in",
+      "bytes": 2108,
+      "sha256": "a84b0c22f337ae53be8aead5e5701ca17ced0082ce6778f7fa1280b49fec58fb"
+    },
+    {
+      "path": "vendor/mvsdk/demo/GTK_Demo/configure",
+      "bytes": 182952,
+      "sha256": "95119b45956190aa60382643d0cc8477a07556c721d3b95b88448e3e8b2b8e33"
+    },
+    {
+      "path": "vendor/mvsdk/demo/GTK_Demo/configure.in",
+      "bytes": 893,
+      "sha256": "7e7b3a3f5acbf7eeae32176d209da4583035c3e3edc15f8c655edf7aa1f9307e"
+    },
+    {
+      "path": "vendor/mvsdk/demo/GTK_Demo/depcomp",
+      "bytes": 18615,
+      "sha256": "20efdbd4f295e6b759a024fe045671de5db6066e2a210be3296eeb9c38a1b238"
+    },
+    {
+      "path": "vendor/mvsdk/demo/GTK_Demo/inc/Demo.h",
+      "bytes": 1215,
+      "sha256": "ca751d81354df5de0d5e91a40e2b68e7ac1829d8842e1087270692098eeeaa06"
+    },
+    {
+      "path": "vendor/mvsdk/demo/GTK_Demo/inc/callbacks.h",
+      "bytes": 4305,
+      "sha256": "e7f757de2bb2d9564a3bec7dceeb634a271d01148b061676427559e241a1ed43"
+    },
+    {
+      "path": "vendor/mvsdk/demo/GTK_Demo/inc/interface.h",
+      "bytes": 395,
+      "sha256": "5540d05a4eb3a7e57dbdb6e83197232060e0b128790396024656119ee1d49cfc"
+    },
+    {
+      "path": "vendor/mvsdk/demo/GTK_Demo/inc/support.h",
+      "bytes": 163,
+      "sha256": "dc8ca4f83cdfba1c2dc725b2d2db48420f051653f779a37ae3d7112fefe22ff6"
+    },
+    {
+      "path": "vendor/mvsdk/demo/GTK_Demo/install-sh",
+      "bytes": 13663,
+      "sha256": "a42cce53f5b376a4b1251e8d06e96dead9e858396d07333ed0cc83aa4b510023"
+    },
+    {
+      "path": "vendor/mvsdk/demo/GTK_Demo/missing",
+      "bytes": 11419,
+      "sha256": "fd08cdce99a06aeb2308dd3b78499edc15c29ebc2da23b059a931b38cc5b90f3"
+    },
+    {
+      "path": "vendor/mvsdk/demo/GTK_Demo/src/Demo.cpp",
+      "bytes": 17830,
+      "sha256": "a2d58da6d46fac5e5e804d79c9555448ae5d5d4fad4dc5aaded139d8cae19b9f"
+    },
+    {
+      "path": "vendor/mvsdk/demo/GTK_Demo/src/callbacks.cpp",
+      "bytes": 27879,
+      "sha256": "eb31678b27238afbdafa9fa840d931087e9a45b32536cebd11f8610cd8ca5468"
+    },
+    {
+      "path": "vendor/mvsdk/demo/GTK_Demo/src/interface.cpp",
+      "bytes": 26095,
+      "sha256": "16174078affe727430873d005b3873632d22a430c849b554a3022f59e7463f16"
+    },
+    {
+      "path": "vendor/mvsdk/demo/GTK_Demo/src/support.cpp",
+      "bytes": 738,
+      "sha256": "157093436c20a6a1905cea8ddc809aad9c27f4d4148166b8db29643736ebd5d3"
+    },
+    {
+      "path": "vendor/mvsdk/demo/OpenCv/OpenCv.cbp",
+      "bytes": 1420,
+      "sha256": "68e3f4dd9297928385247f25badd640bec72b4b848e6b1c6c17cedfc4672d0bb"
+    },
+    {
+      "path": "vendor/mvsdk/demo/OpenCv/main.cpp",
+      "bytes": 3556,
+      "sha256": "bc593172c299eeec3ea32671c60a825b5bcc6292a42e2243a181b0cdd470381c"
+    },
+    {
+      "path": "vendor/mvsdk/demo/QT5_Demo/QT_Demo.pro",
+      "bytes": 442,
+      "sha256": "1565982efa662deb2fa972045b70dd2cfc81f2def53b4a5738a2b6ab9791d48f"
+    },
+    {
+      "path": "vendor/mvsdk/demo/QT5_Demo/capturethread.cpp",
+      "bytes": 2010,
+      "sha256": "06c0a692ebe4852576b021c5fb0f0f2e455d601b2c0670e2539496ca7840964f"
+    },
+    {
+      "path": "vendor/mvsdk/demo/QT5_Demo/capturethread.h",
+      "bytes": 446,
+      "sha256": "8fc9b0a311534614d62cdfb7872b639382993562d5403f813657d8e5d93bde77"
+    },
+    {
+      "path": "vendor/mvsdk/demo/QT5_Demo/main.cpp",
+      "bytes": 408,
+      "sha256": "ceb41b7f4d2c85f40db94705892d7c85bc542061e37b64c487dc9f114b2674a9"
+    },
+    {
+      "path": "vendor/mvsdk/demo/QT5_Demo/mainwindow.cpp",
+      "bytes": 43359,
+      "sha256": "9ebb5eaf7629b0e37e1f6cdf46d4aab0c2864af687ef9ecfd988b3369651a3c3"
+    },
+    {
+      "path": "vendor/mvsdk/demo/QT5_Demo/mainwindow.h",
+      "bytes": 3875,
+      "sha256": "39311f80234a8e8e76f16da6d2edace4ef249e5b0d2989dad9412bd87f1e7971"
+    },
+    {
+      "path": "vendor/mvsdk/demo/QT5_Demo/mainwindow.ui",
+      "bytes": 41020,
+      "sha256": "1dd06c9756407164c987ca4579d0e1878894993ef4c15649ee609b1f5fe10349"
+    },
+    {
+      "path": "vendor/mvsdk/demo/QT_Demo/QT_Demo.pro",
+      "bytes": 371,
+      "sha256": "eedc49131d0135eab0e9e2ce2ae8342cef2d5e8fe0d48d97f2616e4326bc8247"
+    },
+    {
+      "path": "vendor/mvsdk/demo/QT_Demo/capturethread.cpp",
+      "bytes": 2010,
+      "sha256": "06c0a692ebe4852576b021c5fb0f0f2e455d601b2c0670e2539496ca7840964f"
+    },
+    {
+      "path": "vendor/mvsdk/demo/QT_Demo/capturethread.h",
+      "bytes": 446,
+      "sha256": "8fc9b0a311534614d62cdfb7872b639382993562d5403f813657d8e5d93bde77"
+    },
+    {
+      "path": "vendor/mvsdk/demo/QT_Demo/main.cpp",
+      "bytes": 382,
+      "sha256": "32a34ae7bde28d2a8f8b5dae88a2d0107fae4cc64d60dc90408574a324551d7d"
+    },
+    {
+      "path": "vendor/mvsdk/demo/QT_Demo/mainwindow.cpp",
+      "bytes": 43231,
+      "sha256": "7143ee5d742176740c35ae177e92ea85ae9445bb113c0ddaab26a9b40122e62b"
+    },
+    {
+      "path": "vendor/mvsdk/demo/QT_Demo/mainwindow.h",
+      "bytes": 3782,
+      "sha256": "b4c3673831a5fff73bc2cd99f49efaccd0d8f059d6ca05ff8aec409ae4c996f5"
+    },
+    {
+      "path": "vendor/mvsdk/demo/QT_Demo/mainwindow.ui",
+      "bytes": 41020,
+      "sha256": "1dd06c9756407164c987ca4579d0e1878894993ef4c15649ee609b1f5fe10349"
+    },
+    {
+      "path": "vendor/mvsdk/demo/Sampli_Save_Demo/COPYING",
+      "bytes": 35147,
+      "sha256": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903"
+    },
+    {
+      "path": "vendor/mvsdk/demo/Sampli_Save_Demo/INSTALL",
+      "bytes": 15578,
+      "sha256": "91826b889739b720e0da7055b74a5a579dd31ad2f3b683b15302039df676e34f"
+    },
+    {
+      "path": "vendor/mvsdk/demo/Sampli_Save_Demo/Makefile.am",
+      "bytes": 210,
+      "sha256": "4a2a3a4a9f4498157fbd326824a8928632efea4f48c7f9fc72fdc4d06519d93d"
+    },
+    {
+      "path": "vendor/mvsdk/demo/Sampli_Save_Demo/Sampli_Save_Demo.cbp",
+      "bytes": 1365,
+      "sha256": "cc519ba1d521fc97ebaea49b2c78f4ce2932f1160685d0ae2de2991b729d6269"
+    },
+    {
+      "path": "vendor/mvsdk/demo/Sampli_Save_Demo/aclocal.m4",
+      "bytes": 34611,
+      "sha256": "7adada6734e6b2b388795437114e27e98ccc9d16d2e5cd4bc63c4ff0c227ecc6"
+    },
+    {
+      "path": "vendor/mvsdk/demo/Sampli_Save_Demo/autom4te.cache/output.0",
+      "bytes": 143054,
+      "sha256": "121b0ce01105e3d7902889d3d34e5c592ea6815ea1267be76af724a0629ff46c"
+    },
+    {
+      "path": "vendor/mvsdk/demo/Sampli_Save_Demo/autom4te.cache/output.1",
+      "bytes": 175202,
+      "sha256": "5253c247a9a76daaf83bb3cdcf107b36b5ed4bdfc0f725fb5b42c91662cc891f"
+    },
+    {
+      "path": "vendor/mvsdk/demo/Sampli_Save_Demo/autom4te.cache/output.2",
+      "bytes": 175202,
+      "sha256": "5253c247a9a76daaf83bb3cdcf107b36b5ed4bdfc0f725fb5b42c91662cc891f"
+    },
+    {
+      "path": "vendor/mvsdk/demo/Sampli_Save_Demo/autom4te.cache/requests",
+      "bytes": 9063,
+      "sha256": "3b4cd2c2c347c68e150e0e4bcf4ac672863cac883fd0529b68fc88603a82538d"
+    },
+    {
+      "path": "vendor/mvsdk/demo/Sampli_Save_Demo/autom4te.cache/traces.0",
+      "bytes": 18178,
+      "sha256": "0bce162eedf5e2417493e0492c62bd3490b7fb5c15f88184e6565150b3d30df0"
+    },
+    {
+      "path": "vendor/mvsdk/demo/Sampli_Save_Demo/autom4te.cache/traces.1",
+      "bytes": 34395,
+      "sha256": "57c20277a90eaca9be82480181774ead44779caee44258b441830bb68c18e612"
+    },
+    {
+      "path": "vendor/mvsdk/demo/Sampli_Save_Demo/autom4te.cache/traces.2",
+      "bytes": 27122,
+      "sha256": "14bba17ed449a2c402120c6cf34946407120c4369154bf5e24b695732c17f9bb"
+    },
+    {
+      "path": "vendor/mvsdk/demo/Sampli_Save_Demo/config.h.in",
+      "bytes": 2061,
+      "sha256": "00aeb1f3cf4ac9503950992d6411116d695499602952bab4d1c352f089195c9b"
+    },
+    {
+      "path": "vendor/mvsdk/demo/Sampli_Save_Demo/configure",
+      "bytes": 174550,
+      "sha256": "ba5280a435a29d906c3bad216a2d2c90c4e25a51a034ab6081a51ffada777b1f"
+    },
+    {
+      "path": "vendor/mvsdk/demo/Sampli_Save_Demo/configure.in",
+      "bytes": 888,
+      "sha256": "e1ae356cde7dd35f355dd777eac0f6710aa17add03598e323277f66fb26924af"
+    },
+    {
+      "path": "vendor/mvsdk/demo/Sampli_Save_Demo/depcomp",
+      "bytes": 18615,
+      "sha256": "20efdbd4f295e6b759a024fe045671de5db6066e2a210be3296eeb9c38a1b238"
+    },
+    {
+      "path": "vendor/mvsdk/demo/Sampli_Save_Demo/install-sh",
+      "bytes": 13663,
+      "sha256": "a42cce53f5b376a4b1251e8d06e96dead9e858396d07333ed0cc83aa4b510023"
+    },
+    {
+      "path": "vendor/mvsdk/demo/Sampli_Save_Demo/main.cpp",
+      "bytes": 3562,
+      "sha256": "11f5e527ef9ba1f27eb9764b61e79be1162f0beea5d48972d6fcbdca1bcce238"
+    },
+    {
+      "path": "vendor/mvsdk/demo/Sampli_Save_Demo/missing",
+      "bytes": 11419,
+      "sha256": "fd08cdce99a06aeb2308dd3b78499edc15c29ebc2da23b059a931b38cc5b90f3"
+    },
+    {
+      "path": "vendor/mvsdk/demo/multicamera_demo/Makefile.am",
+      "bytes": 420,
+      "sha256": "520e34ec834da826dda0694967e11631127baefa8ba69361757b51d092674d75"
+    },
+    {
+      "path": "vendor/mvsdk/demo/multicamera_demo/aclocal.m4",
+      "bytes": 39833,
+      "sha256": "a50a0731906ea826f093eee72f6a00dbf9fe6727c5bdd3b58fcdb6182cc94561"
+    },
+    {
+      "path": "vendor/mvsdk/demo/multicamera_demo/autom4te.cache/output.0",
+      "bytes": 182105,
+      "sha256": "fed6b459909352cb5facb0bef7837e43079b462522f30bd7e88790967e9970e9"
+    },
+    {
+      "path": "vendor/mvsdk/demo/multicamera_demo/autom4te.cache/output.1",
+      "bytes": 182105,
+      "sha256": "fed6b459909352cb5facb0bef7837e43079b462522f30bd7e88790967e9970e9"
+    },
+    {
+      "path": "vendor/mvsdk/demo/multicamera_demo/autom4te.cache/requests",
+      "bytes": 6482,
+      "sha256": "bd7b0a6f9793b4f719f701e7e31be8857b3747d3dfb7d276ce86deb5d9350286"
+    },
+    {
+      "path": "vendor/mvsdk/demo/multicamera_demo/autom4te.cache/traces.0",
+      "bytes": 38424,
+      "sha256": "ac71865ede4bb82b87606adbefe3f1e943138fc4b1364791d7236b27b11f0689"
+    },
+    {
+      "path": "vendor/mvsdk/demo/multicamera_demo/autom4te.cache/traces.1",
+      "bytes": 28798,
+      "sha256": "531acdf4630763073cd2be2d154d254b59da8b3432e31c8c820a85cd888d18d1"
+    },
+    {
+      "path": "vendor/mvsdk/demo/multicamera_demo/config.h.in",
+      "bytes": 2108,
+      "sha256": "a84b0c22f337ae53be8aead5e5701ca17ced0082ce6778f7fa1280b49fec58fb"
+    },
+    {
+      "path": "vendor/mvsdk/demo/multicamera_demo/configure",
+      "bytes": 181437,
+      "sha256": "6564a462f8ad9dd361338054f06bf4b59114f41c0797dc3e447e698a504d1d7c"
+    },
+    {
+      "path": "vendor/mvsdk/demo/multicamera_demo/configure.in",
+      "bytes": 911,
+      "sha256": "20efbbfcd6f10e4222965bda1e0110e37df8c01fc054166bb259ca7cedbd8c91"
+    },
+    {
+      "path": "vendor/mvsdk/demo/multicamera_demo/depcomp",
+      "bytes": 18615,
+      "sha256": "20efdbd4f295e6b759a024fe045671de5db6066e2a210be3296eeb9c38a1b238"
+    },
+    {
+      "path": "vendor/mvsdk/demo/multicamera_demo/inc/Demo.h",
+      "bytes": 747,
+      "sha256": "7956bd5a764e9dd20329245ac99373c000054e5f69e4b77c46332f46bed435a1"
+    },
+    {
+      "path": "vendor/mvsdk/demo/multicamera_demo/inc/callbacks.h",
+      "bytes": 504,
+      "sha256": "22b5db80450f0eee8d57e4ebb71df0d60a3fc736122fa195c39e0c575cf61b52"
+    },
+    {
+      "path": "vendor/mvsdk/demo/multicamera_demo/inc/interface.h",
+      "bytes": 264,
+      "sha256": "d6e24dd6631ae012db608a45bbe49d5c9dbc8e638165c6eace7e1b3163ef9371"
+    },
+    {
+      "path": "vendor/mvsdk/demo/multicamera_demo/inc/support.h",
+      "bytes": 163,
+      "sha256": "dc8ca4f83cdfba1c2dc725b2d2db48420f051653f779a37ae3d7112fefe22ff6"
+    },
+    {
+      "path": "vendor/mvsdk/demo/multicamera_demo/install-sh",
+      "bytes": 13663,
+      "sha256": "a42cce53f5b376a4b1251e8d06e96dead9e858396d07333ed0cc83aa4b510023"
+    },
+    {
+      "path": "vendor/mvsdk/demo/multicamera_demo/missing",
+      "bytes": 11419,
+      "sha256": "fd08cdce99a06aeb2308dd3b78499edc15c29ebc2da23b059a931b38cc5b90f3"
+    },
+    {
+      "path": "vendor/mvsdk/demo/multicamera_demo/multi_camera_demo.glade",
+      "bytes": 3478,
+      "sha256": "57e1abfa79a5a4dccf1bd17ad6acd9b38e2e013fcef11b356ad5c56ca53501c9"
+    },
+    {
+      "path": "vendor/mvsdk/demo/multicamera_demo/multicamera_demo.cbp",
+      "bytes": 2021,
+      "sha256": "24060ae65e358c23e140b4095f67ad1b501d70dcc489428e498e731b9c8ebdd2"
+    },
+    {
+      "path": "vendor/mvsdk/demo/multicamera_demo/multicamera_demo.cpp",
+      "bytes": 4973,
+      "sha256": "48aa4c5a57af49350f0136926329899e82c80dd28b4df198450743f4adc7b48e"
+    },
+    {
+      "path": "vendor/mvsdk/demo/multicamera_demo/src/Demo.cpp",
+      "bytes": 4674,
+      "sha256": "64166e57002b144a4d72f18ee61133999da197935145e89010fe14c7503b65d7"
+    },
+    {
+      "path": "vendor/mvsdk/demo/multicamera_demo/src/callbacks.cpp",
+      "bytes": 4431,
+      "sha256": "a7d09789c14ce245710e3b8394ec97d6720a7d7925d9a2bc6f3ec3eef2078066"
+    },
+    {
+      "path": "vendor/mvsdk/demo/multicamera_demo/src/interface.cpp",
+      "bytes": 4346,
+      "sha256": "90c5fca5c2154da1a757b822bdb1b40105b55796eee5c7b36451052882e990f0"
+    },
+    {
+      "path": "vendor/mvsdk/demo/multicamera_demo/src/support.cpp",
+      "bytes": 738,
+      "sha256": "157093436c20a6a1905cea8ddc809aad9c27f4d4148166b8db29643736ebd5d3"
+    },
+    {
+      "path": "vendor/mvsdk/demo/python_demo/Camera/Data/072070420165.mvdat",
+      "bytes": 3527,
+      "sha256": "72aa32dfd77f9fd05faf47dac73b595e95e29ca49f99a2ee5b0677b0069e4015"
+    },
+    {
+      "path": "vendor/mvsdk/demo/python_demo/Camera/log/error_20261002-135310.81",
+      "bytes": 277,
+      "sha256": "8a26cbe00776fcf8d8a549cb92f86c9416d66fc73d46f121e4f7c23916f609f8"
+    },
+    {
+      "path": "vendor/mvsdk/demo/python_demo/cv_grab.py",
+      "bytes": 3435,
+      "sha256": "0213bd5f875791d85cb907ab1703d191f0cf695d9760d066a43b9c7c859ab000"
+    },
+    {
+      "path": "vendor/mvsdk/demo/python_demo/cv_grab2.py",
+      "bytes": 4190,
+      "sha256": "fc32f5da196f6be0e7102d91042d198817a882485e435901733e4c4ea8b6dd20"
+    },
+    {
+      "path": "vendor/mvsdk/demo/python_demo/cv_grab_callback.py",
+      "bytes": 3714,
+      "sha256": "e76911e79ef6c259041803cda089b35bb2111180e397d6252e75689e03e308c5"
+    },
+    {
+      "path": "vendor/mvsdk/demo/python_demo/grab.py",
+      "bytes": 4255,
+      "sha256": "b838b7e0926690698b407d25341f8bdaef56eed6211cd1bf455d4b15ce25a67d"
+    },
+    {
+      "path": "vendor/mvsdk/demo/python_demo/mvsdk.py",
+      "bytes": 92961,
+      "sha256": "fe378052741186001d54e90e474b8dd63aac065262b5d178b80a42cb7a12dab9"
+    },
+    {
+      "path": "vendor/mvsdk/demo/python_demo/readme.txt",
+      "bytes": 230,
+      "sha256": "95a34d9b2151a3d6478f6f3d3546f1920cdbdfb259d96bc2f2650b91da220c97"
+    },
+    {
+      "path": "vendor/mvsdk/document/MVSDK_API_CHS.chm",
+      "bytes": 823406,
+      "sha256": "529d40398ad83a5244a0c5728b3094b64d3daf555bc46dbdcf7a1ed9d5e0ae1e"
+    },
+    {
+      "path": "vendor/mvsdk/document/MVSDK_API_ENG.chm",
+      "bytes": 750466,
+      "sha256": "65aa0fcc0061cda8abc7e3b6fd4b4c17816b7035adff6e82acb6e7e4b70af2d3"
+    },
+    {
+      "path": "vendor/mvsdk/document/linuxSDK使用说明.pdf",
+      "bytes": 2891424,
+      "sha256": "c83671fab638bad8769c05feee7ff5641e7c18c03e6999ebf2112431cc28d08f"
+    },
+    {
+      "path": "vendor/mvsdk/include/CameraApi.h",
+      "bytes": 281713,
+      "sha256": "2dcce7fe9b621d66cfd79678146544550b466280d63088d32dcb7bd8e41c694e"
+    },
+    {
+      "path": "vendor/mvsdk/include/CameraDefine.h",
+      "bytes": 47314,
+      "sha256": "d0dacf08df047f652b440fc19c29badc3ebd603aad5711846ef479291c35a26f"
+    },
+    {
+      "path": "vendor/mvsdk/include/CameraStatus.h",
+      "bytes": 8053,
+      "sha256": "c3ce95390b7903179b77ce907b753b59ac75aed1e3690d2247468e99fc703701"
+    },
+    {
+      "path": "vendor/mvsdk/install.sh",
+      "bytes": 805,
+      "sha256": "0bdd47eedc43b188943a2c2ea600a18ac97306a5476706dfc5be67a9b4b7a05a"
+    },
+    {
+      "path": "vendor/mvsdk/lib/x64/libMVSDK.so",
+      "bytes": 25590960,
+      "sha256": "0396a8572f18be560b0c795d65841701a5fba0917614aa5f34436914f00307f7"
+    },
+    {
+      "path": "vendor/mvsdk/readme.pdf",
+      "bytes": 292637,
+      "sha256": "21a7c46306d3e2cd4c152dc3a9790fa273a28a857168696577aef9c916f4e46e"
+    },
+    {
+      "path": "vendor/mvsdk/tools/GTKGeConfigTools/GeConfigTools",
+      "bytes": 152496,
+      "sha256": "f3e95540a3aca7121af487380841b98c6f3d0db766d17aaf169f891d1ab1ff1f"
+    },
+    {
+      "path": "vendor/mvsdk/tools/GTKGeConfigTools/ui.glade",
+      "bytes": 43409,
+      "sha256": "05c32f8410e18944de3f529a15e4cecd026068c88b53d7d00d84b1346543540c"
+    },
+    {
+      "path": "vendor/mvsdk/tools/GeConfigCmd/arm/GeConfigCmd",
+      "bytes": 62190,
+      "sha256": "38f11d5bcdabe2f70d49cbd20d89fa7e43a42a8e54f4be0956dc256841817dc0"
+    },
+    {
+      "path": "vendor/mvsdk/tools/GeConfigCmd/arm64/GeConfigCmd",
+      "bytes": 23664,
+      "sha256": "f4a4ce9305022d64bb236217c4ea779e2e20cac52295365da61a27bceb46cc33"
+    },
+    {
+      "path": "vendor/mvsdk/tools/GeConfigCmd/arm_softfp/GeConfigCmd",
+      "bytes": 16763,
+      "sha256": "76897c34f36f5506237693c471cd929127d32b8d40daccea43762490fb8b5c1b"
+    },
+    {
+      "path": "vendor/mvsdk/tools/GeConfigCmd/x64/GeConfigCmd",
+      "bytes": 27272,
+      "sha256": "786fb85b0909b53d1c47dbccaf4775287d269102ce2462fa5f916f7fe31b5f5a"
+    },
+    {
+      "path": "vendor/mvsdk/tools/GeConfigCmd/x86/GeConfigCmd",
+      "bytes": 22228,
+      "sha256": "3467d8dd2e61795b7af7bc3b56f44c5c2468bb461c1f0fa9ced0ac58c08bd8fe"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/AppRun",
+      "bytes": 14,
+      "sha256": "749174285f5c6dd574e8b79b6dffdc2bb3ed80c75d5ee8fac34ce458d1f6db80"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/QGeConfigTools",
+      "bytes": 520787,
+      "sha256": "c554d1d27fc6f72d0a00d9f834201efe77e3d2c3b9550dbe8708ffe3ea54cb80"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/default.desktop",
+      "bytes": 123,
+      "sha256": "2073b578756d8c90d00ea09296f24fbf752d4d15efededd90d300bef3fdbb085"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/default.png",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/doc/libdbus-1-3/copyright",
+      "bytes": 11158,
+      "sha256": "a149b1996ff813dfad978b07d362578757083dfb16350d48f3f5e5cf22bb770c"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/doc/libffi6/copyright",
+      "bytes": 3440,
+      "sha256": "7258c8acc378030d8dbe1fcdf394e915769fa31dcbaf3d2991d9a79891f3bcdc"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/doc/libglib2.0-0/copyright",
+      "bytes": 2138,
+      "sha256": "fba5358de01b6b99d385f588714b3b7f64be7074710e4d4152bc3a05dfef1789"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/doc/libjasper1/copyright",
+      "bytes": 3042,
+      "sha256": "86c11bd7b94d24d6c372bd95f8d8998b8a69c7d82a91dd0247878b28223feabe"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/doc/libjpeg-turbo8/copyright",
+      "bytes": 6101,
+      "sha256": "193468d9eb043a180f6f9e3386f7205104908dcb8525ad39c8236990dfd452ef"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/doc/libpcre3/copyright",
+      "bytes": 2765,
+      "sha256": "ac9276490d2fa167442ae1aae33926514ad10c8886baa40046c5e367fccc5938"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/doc/libpng12-0/copyright",
+      "bytes": 4747,
+      "sha256": "265723d3bf6c4f4664caac889c62d7155c064713ad56b87a277104a879af273a"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/doc/libwayland-client0/copyright",
+      "bytes": 1592,
+      "sha256": "6aaf3b2b98b501b648c780e7c3ee21db786a75deec87b877fc8533b53ae32a32"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/doc/libwayland-server0/copyright",
+      "bytes": 1592,
+      "sha256": "6aaf3b2b98b501b648c780e7c3ee21db786a75deec87b877fc8533b53ae32a32"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/doc/libx11-xcb1/copyright",
+      "bytes": 47104,
+      "sha256": "c841b7fc957bbe822d9cababead2ceeda418f62e12897ff2dd7a93e9055e337f"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/doc/libxau6/copyright",
+      "bytes": 1223,
+      "sha256": "d311410a8af7cfb1b16ae2d22765641ba4e2a1a9431f229f59326bca0f99cdac"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/doc/libxcb-glx0-dev/copyright",
+      "bytes": 1780,
+      "sha256": "26f8d1e7de951534bec30854f9a3aaa322bfd244c095c74c52c3b20e16638ece"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/doc/libxcb-present0/copyright",
+      "bytes": 1780,
+      "sha256": "26f8d1e7de951534bec30854f9a3aaa322bfd244c095c74c52c3b20e16638ece"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/doc/libxcb-render0-dev/copyright",
+      "bytes": 1780,
+      "sha256": "26f8d1e7de951534bec30854f9a3aaa322bfd244c095c74c52c3b20e16638ece"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/doc/libxcb-shape0-dev/copyright",
+      "bytes": 1780,
+      "sha256": "26f8d1e7de951534bec30854f9a3aaa322bfd244c095c74c52c3b20e16638ece"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/doc/libxcb-sync1/copyright",
+      "bytes": 1780,
+      "sha256": "26f8d1e7de951534bec30854f9a3aaa322bfd244c095c74c52c3b20e16638ece"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/doc/libxcb-xfixes0/copyright",
+      "bytes": 1780,
+      "sha256": "26f8d1e7de951534bec30854f9a3aaa322bfd244c095c74c52c3b20e16638ece"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/doc/libxdamage1/copyright",
+      "bytes": 1221,
+      "sha256": "09182bc7805ff77a41251e450cebd0d33c48a74ba8ec4b734855a22c86f50417"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/doc/libxdmcp6/copyright",
+      "bytes": 1265,
+      "sha256": "1bcbb50f8603fe8b86d330bfa460b772ea04fbd3c70e4499f0768b5340b9fd6e"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/doc/libxext6/copyright",
+      "bytes": 10421,
+      "sha256": "bc57e445ca1d9fe082c8d54189dd411ff26caa8552c9c63d44ea06a982f32124"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/doc/libxfixes3/copyright",
+      "bytes": 2319,
+      "sha256": "a804ba66f69fc217d8f9363405c3eec48be30c2d62b77850990c6cd8a3a0a4b5"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/doc/libxi6/copyright",
+      "bytes": 4434,
+      "sha256": "47404744a0ab1c33b1478940b236ffe4197e7ccb89a32bb3c2deead040076e5e"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/doc/libxshmfence1/copyright",
+      "bytes": 1215,
+      "sha256": "6a76b32c9174c0cb9e3d94c323a14d33d6a42bd2a61579b189cbc5addeb94abe"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/doc/libxxf86vm1/copyright",
+      "bytes": 1370,
+      "sha256": "8a18884e1be08a37bf1b8fc9a14eba800e65a98d6ea19bb5d8b0ccf35f9bbcc4"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/lib/libQt5Core.so.5",
+      "bytes": 5458240,
+      "sha256": "43d10b31540b20075f3a72b4dbdc575c43578ac69757ca71003c8e283d6845b9"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/lib/libQt5DBus.so.5",
+      "bytes": 558512,
+      "sha256": "93af877d1b1f81f02b28b383c34081c1928b065247856ad72a0f61db01a7ec34"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/lib/libQt5Gui.so.5",
+      "bytes": 5931896,
+      "sha256": "4f034a41c072bdf3f6c29a680c4307342d489062cc24b30dbf8705ed89efb705"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/lib/libQt5Network.so.5",
+      "bytes": 1637912,
+      "sha256": "c144723415a75c6b9beb985e09214b5c3db75a0fc1b21e1486345f8a24c5f6bb"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/lib/libQt5Qml.so.5",
+      "bytes": 4118648,
+      "sha256": "1e45dbd9bfc6bca0d19857468e6a5bac9b522ada2ba57cdda6dab235082cb45d"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/lib/libQt5Quick.so.5",
+      "bytes": 4397600,
+      "sha256": "a90eb7bcc258780eb8029cc9de6748ce0a5945e914dfe59ab737434c776799ac"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/lib/libQt5Svg.so.5",
+      "bytes": 349720,
+      "sha256": "b595354ad927b8498893b0e5a9f381d9b5b7dd980aaf6c915019f0dfdca6ebab"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/lib/libQt5Widgets.so.5",
+      "bytes": 6491672,
+      "sha256": "9aae141660b8fc8693ca703235a50be754c513842da7ba9a83e0fb212b24bdca"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/lib/libQt5XcbQpa.so.5",
+      "bytes": 1406088,
+      "sha256": "70bb1652c23466d96e4089836a2e51ff4195e827927eba80fd71b583b7e1e1f7"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/lib/libX11-xcb.so.1",
+      "bytes": 9352,
+      "sha256": "eea3dc5f1305ed6bf7feee83f61dfed4469a0993e63bbcc2c0fb5d7dc9959fae"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/lib/libXau.so.6",
+      "bytes": 17824,
+      "sha256": "b6f2f094665d6344437fd00e994b4204cabeb90f25a49e8381b310fb950d355a"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/lib/libXdamage.so.1",
+      "bytes": 13784,
+      "sha256": "69f9d3c4f1e1951ccda778722495f9be116ca6168efb8380d6b894fcb24ed401"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/lib/libXdmcp.so.6",
+      "bytes": 26544,
+      "sha256": "974845a931bd5ba7245c4882be76db0f9409f4c385895d1b3f9b219d0b892127"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/lib/libXext.so.6",
+      "bytes": 78080,
+      "sha256": "53a0eb78013178109b4848c6aa57deef384840665a348cace0894ab7feacd61e"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/lib/libXfixes.so.3",
+      "bytes": 26832,
+      "sha256": "dcc9ed0026ec25b131b7fce5b36f6be6cc3d776ca8a40850e6faa8f6fbf0f792"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/lib/libXi.so.6",
+      "bytes": 68680,
+      "sha256": "755b157cee75c025a53bb9b9f317fd355a21aa4205d538491bf433b4993fe6e2"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/lib/libXxf86vm.so.1",
+      "bytes": 26456,
+      "sha256": "c8294dadff4dae82bba7312a13ebb033b451748e9ba1547c41cad999b7971220"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/lib/libdbus-1.so.3",
+      "bytes": 291320,
+      "sha256": "9dc6e355240794ac98d1dd3cbd011161e980a06ddad23e7c7ee220b2d3f59199"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/lib/libffi.so.6",
+      "bytes": 34808,
+      "sha256": "1da4b0b6fea53dbbcf4d14f8c9525ad8173e05260c26be6854182ba80b4f6e30"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/lib/libgthread-2.0.so.0",
+      "bytes": 9424,
+      "sha256": "7c860a7419b8976b0d7abc86da121a278d9bf6711a382bfb02d4b1a3199dab06"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/lib/libicudata.so.56",
+      "bytes": 25051640,
+      "sha256": "b09e468b60b5e07013eac640f61c5d9b21cfea7214be024d94e67303fc1b0d69"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/lib/libicui18n.so.56",
+      "bytes": 3751384,
+      "sha256": "e1408b175bcb9680926c3ea36fb1401a6e097ab89dde9e61891a1f554efa37f5"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/lib/libicuuc.so.56",
+      "bytes": 2200624,
+      "sha256": "e033e237f49987273390e823280d893f6421eb8d97611de11379fbc4700f3e94"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/lib/libjasper.so.1",
+      "bytes": 340216,
+      "sha256": "5aeb7dd7454a664451ae323a52e1aa2ec023e61170f55da8fddfb01f79038900"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/lib/libjpeg.so.8",
+      "bytes": 286336,
+      "sha256": "7c9806033353cc2e9a1347b9a7342aa4b3f0533949e700df2a2357bf09ea6296"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/lib/libpcre.so.3",
+      "bytes": 256120,
+      "sha256": "65813a24f1e3ac71d1d0cb965e2d485c6377cf3b9be7ade2a083a27b98f06ab5"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/lib/libpng12.so.0",
+      "bytes": 161056,
+      "sha256": "0b4833aceacba58be9bed34eef4e36a6eb65a5eb1c2d1c5c0a0b84c15440c015"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/lib/libwayland-client.so.0",
+      "bytes": 56616,
+      "sha256": "dae2e22bb9384f605ebb814ba35868d3955d31a826066262ffb97630ab06626b"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/lib/libwayland-server.so.0",
+      "bytes": 74192,
+      "sha256": "48594dfc7e692ce8752958ea797987e1bf7bcf5aba87ff4a125f0355efb3ef58"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/lib/libxcb-glx.so.0",
+      "bytes": 111688,
+      "sha256": "2cadb603beeea47ab15e64503799c67222de219f4981da97a5b37f195681563b"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/lib/libxcb-present.so.0",
+      "bytes": 14024,
+      "sha256": "89af53ebe73941d548746e25ca5ffbbc84d8d54d0b71dc2d12bcceca53d41b82"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/lib/libxcb-render.so.0",
+      "bytes": 42920,
+      "sha256": "0b6b77f0735e5dcdfdc56437cfbb73cff446767ee0f57317ac44524e9b8090ce"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/lib/libxcb-shape.so.0",
+      "bytes": 18424,
+      "sha256": "ce03a20a2b359870921e1735de6dd17c09e80e7f96ab304dce04e9869c6ee853"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/lib/libxcb-sync.so.1",
+      "bytes": 28016,
+      "sha256": "cae4ca08585a89535a6a0334a15bd02333590c1dc9218aa6b4d693fece1d8868"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/lib/libxcb-xfixes.so.0",
+      "bytes": 33296,
+      "sha256": "1416286384a083f7e8f49ed51deb9fecd8f37c59a14e74a27c3f3cfc2e901f1d"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/lib/libxshmfence.so.1",
+      "bytes": 9528,
+      "sha256": "e8005386f0c02245d439e6372399824d72ca7dcdb05518a916f9a14429b83f9c"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/play.sh",
+      "bytes": 204,
+      "sha256": "d40ba1a7328ca70482ff98cface759b0ca92771f01035f03f1c568cd79678f46"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/plugins/bearer/libqconnmanbearer.so",
+      "bytes": 224960,
+      "sha256": "01b33b7ef2a619d2f6b0f89d20f13f8d6873759715dcb76d19171362d9c5003d"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/plugins/bearer/libqgenericbearer.so",
+      "bytes": 89016,
+      "sha256": "6dfff5de2165cfc046a061cb665788f87737fcc5fd919a44e2762bf706b9a21b"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/plugins/bearer/libqnmbearer.so",
+      "bytes": 245512,
+      "sha256": "3dbeae962366d2bbd08e1e939a1bfaef8080740ead2f482cf9d2c6234985a9c5"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/plugins/iconengines/libqsvgicon.so",
+      "bytes": 35600,
+      "sha256": "f5e9ce7ffdae52ef1c4cd72a4e03cc125d1fa31bf554e06e39d02b6c7efa3b89"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/plugins/imageformats/libqgif.so",
+      "bytes": 27104,
+      "sha256": "5bbee8d7003a86b13712d3d1d7a7fc8d13fa20896d37d89c3509315d01d301c2"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/plugins/imageformats/libqicns.so",
+      "bytes": 39640,
+      "sha256": "13c22e700e3469bd15079490ba17a80e5ce01284015b8a7b60bf8dc256df8bed"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/plugins/imageformats/libqico.so",
+      "bytes": 31352,
+      "sha256": "e9da4b7f9d1ddf8cbc3de5fee686eb38ee4d6483ab75572cbf9a644d3f4f489d"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/plugins/imageformats/libqjp2.so",
+      "bytes": 31448,
+      "sha256": "12cfba7bcfc6cd6c4eda70112c48e45ec0eab51754dd01eef8da12af16badf09"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/plugins/imageformats/libqjpeg.so",
+      "bytes": 257024,
+      "sha256": "54f6a4f58d2f0c46e36a9170d133ac3b10de349bf8dcf08377cf94084ee1863c"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/plugins/imageformats/libqsvg.so",
+      "bytes": 23112,
+      "sha256": "e780844f17cf79b81c965adb43c4aa8a217ce0b031b538764cf395e9525c513d"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/plugins/imageformats/libqtga.so",
+      "bytes": 18808,
+      "sha256": "d65f72e808ffd48b53d3d0ca768eb74ca82a0519b4bc58e93a9105f0bad36c92"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/plugins/imageformats/libqtiff.so",
+      "bytes": 380368,
+      "sha256": "9ff9cae03adfb6e2675ddd662b2acbca2fedcd17de94f6740a5e2557b730a4ed"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/plugins/imageformats/libqwbmp.so",
+      "bytes": 18896,
+      "sha256": "aeceac1fcc5aa1e3617cce00a271c9f4461fd1a95b4dbb4c882c6328571eff95"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/plugins/imageformats/libqwebp.so",
+      "bytes": 515464,
+      "sha256": "6c84947b141001fed3fbe53b46175824d10491d35c7a940ad1e652eaf891d700"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/plugins/platforminputcontexts/libcomposeplatforminputcontextplugin.so",
+      "bytes": 277904,
+      "sha256": "4b293b87071820ed381aebe8485d8caa02a40829e751b79efb14c16c7e38ef7e"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/plugins/platforminputcontexts/libibusplatforminputcontextplugin.so",
+      "bytes": 114496,
+      "sha256": "0f779bca290c6ca7037ba49088d64b1a0601e267c933ccfe839e01ebb20fe92a"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/plugins/platforminputcontexts/libqtvirtualkeyboardplugin.so",
+      "bytes": 721344,
+      "sha256": "48d08c178171f9acee6308e9c62fbb2d89a8240aa682280dddd03b349752a68f"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/plugins/platforms/libqxcb.so",
+      "bytes": 10448,
+      "sha256": "ff11d788d252337f75d8416157fd909abf17d6565884fb1d900af2bc8562d210"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/plugins/xcbglintegrations/libqxcb-egl-integration.so",
+      "bytes": 81224,
+      "sha256": "3c8d0bc0ee25a20933a61d3deaf240fdbc939a6d94122c1f859b88a03730a6a1"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/plugins/xcbglintegrations/libqxcb-glx-integration.so",
+      "bytes": 65064,
+      "sha256": "557545903995feb5e1e84f66c27cf6ed0ca5bc4871644b93e2461135efc4c2ca"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/qt.conf",
+      "bytes": 163,
+      "sha256": "c5d801fe0d8c5ded1e449e6e92ef31a688384f5b67cd528727e4063c92306c42"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/translations/qt_bg.qm",
+      "bytes": 235439,
+      "sha256": "9c297c6fcb0cb6519805dc21599a75b83d18eb27d1719e9c2f4dbfe5a18fedb3"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/translations/qt_ca.qm",
+      "bytes": 179209,
+      "sha256": "ef196c601ef5a0af8c77fa62601ee1630ed919cef048b903ba48ffdeab246d3c"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/translations/qt_cs.qm",
+      "bytes": 174691,
+      "sha256": "86e174eff79f096d81146860dd5ca9e946c643a3464c7da8919c972747b8df09"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/translations/qt_da.qm",
+      "bytes": 233054,
+      "sha256": "9ab66a82aad11bf30f8fba4d7fc60307445a2efd7397d9a7854ef4aebed72cf2"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/translations/qt_de.qm",
+      "bytes": 261816,
+      "sha256": "f30e9bd913d20dd97ad9124cb7a5f734791ce99aa6229ee5df468b42058248f8"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/translations/qt_en.qm",
+      "bytes": 23,
+      "sha256": "307cef95dd5b36ff215055d427e1885b7fc3650c9224cf76d63056545996ff60"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/translations/qt_es.qm",
+      "bytes": 224992,
+      "sha256": "bb440e6b5ad58cb1daa349854e61ffa8f7306760cf00a920a7a3302791db4176"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/translations/qt_fi.qm",
+      "bytes": 222389,
+      "sha256": "c10e4f21b48c32d66d4732063145312c77574244fde5cec5d101b438f3214864"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/translations/qt_fr.qm",
+      "bytes": 227534,
+      "sha256": "9b9f136ca116ee8e7606bbd42c49e9d931bece4b00ea5e7eea2519a95ba2bb4b"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/translations/qt_gd.qm",
+      "bytes": 173572,
+      "sha256": "0983615cf022b2543993aa6d5f65c16eabf344bd49dad89758a1ac322e036e62"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/translations/qt_he.qm",
+      "bytes": 138680,
+      "sha256": "19a8f435880328f9ccda4fecdfc20bac7afae589c07d0e2b5563366e908ac8e3"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/translations/qt_hu.qm",
+      "bytes": 90989,
+      "sha256": "d3c07628b68a39691b1ea9175a9cd151489cbc731a57a66c865d62167a5ec0f2"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/translations/qt_it.qm",
+      "bytes": 161129,
+      "sha256": "54bdd9856e6007b443f553f03b5b83bca9f08595bf18d3293663517f04e89333"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/translations/qt_ja.qm",
+      "bytes": 175172,
+      "sha256": "72d97b18c799663b6870951d31ff005bdaa2110c556cebbc6f8999c955cf40ab"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/translations/qt_ko.qm",
+      "bytes": 182085,
+      "sha256": "2cc42f03dda7dc24e8828ff885927dc83a0368f8ada55337b88ba691a81d3ee0"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/translations/qt_lv.qm",
+      "bytes": 207489,
+      "sha256": "f2189255501c0e3493473d7ca8d23e53c0cba142948383f6cfc767fa21703849"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/translations/qt_pl.qm",
+      "bytes": 210827,
+      "sha256": "79fb2ee88a50f06189cf9f7d6c71aea4146237f2a00ed519b68c101aae21e88d"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/translations/qt_ru.qm",
+      "bytes": 222109,
+      "sha256": "2f30dd896d85e33b4f225a75d20c151aff49341753e0fb7d59f9f822579ef09d"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/translations/qt_sk.qm",
+      "bytes": 174363,
+      "sha256": "2ead228f8c96d5bee891984035ec3cd52d04117eafc9a5e8c55f1f97de9b2406"
+    },
+    {
+      "path": "vendor/mvsdk/tools/QGeConfigTools/translations/qt_uk.qm",
+      "bytes": 222158,
+      "sha256": "4540dcf62e4383ae6ce3b8aa9a51d42121a28e407d3cf4f9924cffc848e93156"
+    }
+  ],
+  "excluded_local_or_generated_files": [
+    "LOCAL_VERSION.json",
+    "README.md",
+    "camera_config0.config",
+    "demo/GTK_Demo/GTK_Demo.layout",
+    "demo/GTK_Demo/Makefile",
+    "demo/GTK_Demo/Makefile.in",
+    "demo/GTK_Demo/autoscan.log",
+    "demo/GTK_Demo/config.h",
+    "demo/GTK_Demo/config.log",
+    "demo/GTK_Demo/config.status",
+    "demo/GTK_Demo/configure.scan",
+    "demo/GTK_Demo/stamp-h1",
+    "demo/OpenCv/Makefile",
+    "demo/OpenCv/OpenCv.layout",
+    "demo/QT5_Demo/Makefile",
+    "demo/QT5_Demo/QT_Demo",
+    "demo/QT_Demo/Makefile",
+    "demo/Sampli_Save_Demo/Makefile",
+    "demo/Sampli_Save_Demo/Makefile.am.bak",
+    "demo/Sampli_Save_Demo/Makefile.in",
+    "demo/Sampli_Save_Demo/Sampli_Save_Demo.layout",
+    "demo/Sampli_Save_Demo/autoscan.log",
+    "demo/Sampli_Save_Demo/config.h",
+    "demo/Sampli_Save_Demo/config.log",
+    "demo/Sampli_Save_Demo/config.status",
+    "demo/Sampli_Save_Demo/configure.scan",
+    "demo/Sampli_Save_Demo/stamp-h1",
+    "demo/multicamera_demo/.deps/Demo.Po",
+    "demo/multicamera_demo/.deps/callbacks.Po",
+    "demo/multicamera_demo/.deps/interface.Po",
+    "demo/multicamera_demo/.deps/multi_camera_demo.Po",
+    "demo/multicamera_demo/.deps/multicamera_demo.Po",
+    "demo/multicamera_demo/.deps/support.Po",
+    "demo/multicamera_demo/Makefile",
+    "demo/multicamera_demo/Makefile.in",
+    "demo/multicamera_demo/config.h",
+    "demo/multicamera_demo/config.log",
+    "demo/multicamera_demo/config.status",
+    "demo/multicamera_demo/multicamera_demo.layout",
+    "demo/multicamera_demo/stamp-h1",
+    "demo/python_demo/__pycache__/mvsdk.cpython-38.pyc",
+    "demo/python_demo/grab.bmp",
+    "local_release/20261029_offline_capture/README.md",
+    "local_release/20261029_offline_capture/SHA256SUMS.json",
+    "local_release/20261029_offline_capture/XG170GC_ros/CMakeLists.txt",
+    "local_release/20261029_offline_capture/XG170GC_ros/config/xg170gc.yaml",
+    "local_release/20261029_offline_capture/XG170GC_ros/launch/xg170gc.launch",
+    "local_release/20261029_offline_capture/XG170GC_ros/msg/BallImageDetections.msg",
+    "local_release/20261029_offline_capture/XG170GC_ros/msg/CameraFrameMetadata.msg",
+    "local_release/20261029_offline_capture/XG170GC_ros/package.xml",
+    "local_release/20261029_offline_capture/XG170GC_ros/src/benchmark_image_sink.cpp",
+    "local_release/20261029_offline_capture/XG170GC_ros/src/camera_pipeline_benchmark.h",
+    "local_release/20261029_offline_capture/XG170GC_ros/src/high_speed_pipeline.h",
+    "local_release/20261029_offline_capture/XG170GC_ros/src/raw_preview_ros.h",
+    "local_release/20261029_offline_capture/XG170GC_ros/src/test_white_ball_core.cpp",
+    "local_release/20261029_offline_capture/XG170GC_ros/src/transport_diagnostics.h",
+    "local_release/20261029_offline_capture/XG170GC_ros/src/white_ball_core.h",
+    "local_release/20261029_offline_capture/XG170GC_ros/src/white_ball_ros.h",
+    "local_release/20261029_offline_capture/XG170GC_ros/src/xg170gc_node.cpp",
+    "local_release/20261029_offline_capture/XG170GC_ros/tests/test_camera_benchmark_measurement.py",
+    "local_release/20261029_offline_capture/XG170GC_ros/tests/test_transport_diagnostics.cpp",
+    "local_release/20261029_offline_capture/bin/xg170gc_node",
+    "local_release/20261029_offline_capture/integration_scripts/configure_camera_transport.py",
+    "local_release/20261029_offline_capture/integration_scripts/detect_ball_offline.py",
+    "local_release/20261029_offline_capture/integration_scripts/finalize_ball_trial.py",
+    "local_release/20261029_offline_capture/integration_scripts/start_local_camera.py"
+  ]
+}

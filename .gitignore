@@ -1,0 +1,18 @@
+# Only our generated files; vendor libraries and tools are deliberately tracked.
+/build*/
+/install*/
+/.cache/
+/.vscode/
+/.idea/
+__pycache__/
+*.pyc
+*.swp
+*.user
+*.o
+*.log
+/captures/
+/data/
+/tests/
+frames.raw
+frames.csv
+summary.json
